@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Soni</h1>
 <h3 align="center">A passionate Full Stack Developer and Gamer from India</h3>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpvNDhjeXloN29rN3hrNmIwZ3QzNjNqemN3anViczcxMXdxOHhqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.webp">
 
 - 🔭 I’m currently working on [House Circle](https://housecircle.in/)
 
