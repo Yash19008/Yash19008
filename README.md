@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Nextjs, Angular js, Django.**
 
-- 💬 Ask me about **React, Laravel, Javascipt, Java, C++, R , Ruby, Python(AI, ML), Game Development, C#, MERN Stack..)**
+- 💬 Ask me about **React, Laravel, Codeigniter, VueJS, Javascipt, Java, C/C++, Python(AI, ML), Game Development, C#, MERN Stack.**
 
 - 📫 How to reach me **Yash190068@gmail.com**
 
