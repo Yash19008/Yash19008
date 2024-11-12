@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer and Gamer from India</h3>
   </div>
   <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdpZm83MHZ3eXptNzZtNTU0cGlkNXo0ZmtqdWlhODE4OG1ia2RybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp" align="right">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdpZm83MHZ3eXptNzZtNTU0cGlkNXo0ZmtqdWlhODE4OG1ia2RybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.webp" align="right" width="50%">
   </div>
 </div>
 
