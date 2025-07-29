@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Soni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [House Circle](https://housecircle.in/)
+- 🔭 I’m currently working on [Station Satcom](https://www.stationsatcom.com/satcom-india/satcom)
 
 - 🌱 I’m currently learning **NextJS, Blockchain, Django**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-soni-67a60a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-soni-67a60a249" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-yash-soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-yash-soni" height="30" width="40" /></a>
 <a href="https://instagram.com/developer_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_yash" height="30" width="40" /></a>
 </p>
 
