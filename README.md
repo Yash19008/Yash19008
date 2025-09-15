@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Soni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Station Satcom](https://www.stationsatcom.com/satcom-india/satcom)
+- 🔭 I’m currently working on [Station Satcom](https://www.stationsatcom.com/)
 
 - 🌱 I’m currently learning **NextJS, Blockchain, Django**
 
