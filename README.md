@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash19008&show_icons=true&locale=en&layout=compact" alt="yash19008" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash19008&show_icons=true&locale=en" alt="yash19008" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash19008&" alt="yash19008" /></p>
