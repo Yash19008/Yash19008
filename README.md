@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, Blockchain, Django**
 
-- 💬 Ask me about **Vue JS, MERN Stack, Python, Java, Javascript**
+- 💬 Ask me about **MERN Stack, Java, Javascript**
 
 - 📫 Reach me at: **yash190068@gmail.com**
 
