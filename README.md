@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash19008&label=Profile%20views&color=0e75b6&style=flat" alt="yash19008" /> </p>
 
-- 🔭 I’m currently working on AbhiBecho App.
+- 🔭 I’m currently working on **AbhiBecho App**.
 
 - 🌱 I’m currently learning **NextJS, Blockchain, Django**
 
