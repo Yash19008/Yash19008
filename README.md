@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **KuchBhi App**.
 
-- 🌱 I’m currently learning **NextJS, Blockchain, Django**
+- 🌱 I’m currently learning **Blockchain, Django**
 
 - 💬 Ask me about **MERN Stack, Java, Javascript**
 
